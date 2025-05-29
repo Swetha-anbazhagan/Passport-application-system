@@ -28,6 +28,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+![Use Case](https://github.com/user-attachments/assets/fe574a81-6cd7-4aa8-89d7-2200fd806dd4)
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -37,12 +40,6 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
-
-
 
 # CLASS DIAGRAM
 
@@ -58,6 +55,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![ClassDiagram1](https://github.com/user-attachments/assets/d07650d5-b701-4d83-88fc-9d9f571f168e)
 
 
 # COMMUNICTION DIAGRAM:
