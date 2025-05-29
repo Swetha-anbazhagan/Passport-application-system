@@ -74,11 +74,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+![442839822-07912c0a-5ca0-4afa-a4f0-484dd2803783](https://github.com/user-attachments/assets/3d5154c2-cf27-491d-a42f-ca8603aa40aa)
 
 
 # ACTIVITY DIAGRAM:
