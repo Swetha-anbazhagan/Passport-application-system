@@ -29,8 +29,6 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 
-![Use Case](https://github.com/user-attachments/assets/fe574a81-6cd7-4aa8-89d7-2200fd806dd4)
-
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -40,6 +38,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+
+![Use Case](https://github.com/user-attachments/assets/fe574a81-6cd7-4aa8-89d7-2200fd806dd4)
 
 # CLASS DIAGRAM
 
@@ -94,8 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+![ActivityDiagram1](https://github.com/user-attachments/assets/c9de91bd-c1e7-4920-921f-07b389bed83b)
 
 
 # SEQUENCE DIAGRAM
